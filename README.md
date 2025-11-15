@@ -99,5 +99,6 @@ This internship project helped me practice:
 
 **Aadarsh Shukla**  
 Data Science Intern – Cognifyz Technologies  
-GitHub: https://github.com/<your-username>  
-LinkedIn: https://linkedin.com/in/<your-profile>
+GitHub: https://github.com/Aadarshshukla18 
+LinkedIn: https:http://www.linkedin.com/in/aadarsh-shukla-803147370
+Email.ID: shuklaaadarsh00@gmail.com
